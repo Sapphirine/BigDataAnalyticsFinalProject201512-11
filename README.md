@@ -37,13 +37,11 @@ Databases created by ourselves after we conducted filter, clustering and recomme
 #Language: 
 Java, Pig Latin, Matlab, SQL, Python, Google Cloud Platform 
 
-#Analytics: 
-
-(1) Tools 
+#Tools:
 Hadoop, Mahout, Eclipse, Pig, Matlab, Google Cloud, Sitebuilder, Tableau 
 
-(2) Algorithms 
-*Recommendation: item-based similarity measurement 
-*Filter: Collaborative Filtering 
-*Clustering: k-means 
-*Query : Google BigQuery 
+#Algorithms: 
+Recommendation: item-based similarity measurement 
+Filter: Collaborative Filtering 
+Clustering: k-means 
+Query : Google BigQuery 
