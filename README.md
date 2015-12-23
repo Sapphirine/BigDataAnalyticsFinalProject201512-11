@@ -41,10 +41,10 @@ Java, Pig Latin, Matlab, SQL, Python, Google Cloud Platform
 Hadoop, Mahout, Eclipse, Pig, Matlab, Google Cloud, Sitebuilder, Tableau 
 
 #Algorithms: 
-Recommendation--item-based similarity measurement
+Recommendation:item-based similarity measurement
 
-Filter--Collaborative Filtering
+Filter:Collaborative Filtering
 
-Clustering-- k-means 
+Clustering:k-means 
 
-Query--Google BigQuery 
+Query:Google BigQuery 
