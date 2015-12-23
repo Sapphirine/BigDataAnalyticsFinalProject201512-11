@@ -1,5 +1,25 @@
 # Passenger-and-Driver-Based-Analytics-of-NYC-Taxi-Database
-This project is aimed at providing a multi-angle, all around online open platform for public. To achieve this goal, we did real-time analytics for taxi drivers and passengers based on tweets, and further customized visualization analytics results about taxi trips for passengers and drivers. We provide the services according to the specific needs. For the driver-based, we offer driver license renew reminder, pickup location recommendation to maximize drivers’ profits. For passenger-based, we offer trip fare and time estimation, popular boarding location recommendation, disabled service request and popular routes based on pickup location.
+
+#Introduction
+NYC is a highly trafficked city where people valued time and efficiency more, and Taxi plays a vital important role in this great city. Thus, we want to provide valuable suggestions and analysis for both passengers and drivers to make their trip more efficient and convenient. 
+
+Our project makes contributions on the following functions by the analysis of big data: 
+(1) Driver-Based 
+Driver license with Disabled Service expiration date reminder 
+Time based popular pick up location recommendation 
+Maximize driver’s profit 
+
+(2) Passenger-Based 
+Trip fare and time estimation 
+Tip amount recommendation 
+Popular boarding location recommendation 
+Disabled Service request 
+Maximize the probability to take a taxi in a hurry 
+
+(3) Highlight 
+Real-time analytics for taxi drivers and passengers based on tweets 
+Customized visualization analytics results about taxi trips for passengers and drivers 
+Establishing multi-angle, all around online open platform for public to lead a better life in NYC
 
 #Dataset:
 Our data set is combined of three parts with the source dataset chosen from Open Data NYC. 
